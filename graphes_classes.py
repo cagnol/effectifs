@@ -1,5 +1,5 @@
 """
-Distribution du nombre d'eleves par classe dans le premier degre.
+Distribution du nombre d'eleves par classe dans le premier degré. 
 
 Produit deux graphiques a partir du fichier open data de la DEPP
 "Effectifs d'eleves par niveau et nombre de classes par ecole"
