@@ -13,6 +13,11 @@ Produit deux graphiques a partir du fichier open data de la DEPP
      Distribution du departement decomposee en REP/REP+, autre public
      et prive sous contrat.
 
+## Fichier source à récupérer
+fr-en-ecoles-effectifs-nb_classes
+https://data.education.gouv.fr/explore/assets/fr-en-ecoles-effectifs-nb_classes/export/
+
+
 ## Methodo : 
 le fichier ne descend pas au niveau de la classe.
 Il donne, par ecole, un effectif total et un nombre total de classes. On en
